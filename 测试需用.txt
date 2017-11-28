@@ -1,0 +1,28 @@
+测试环境地址：
+http://csp.syncrock.com/app 【登录信息：公司0514，门店编码1000，账号sunny，密码123456】
+http://shop.syncrock.com/app【登录信息：账号sunny@syncpo.com,密码123456】
+http://cpa.syncrock.com/app 【登录信息：账号tutu，密码123456】
+
+
+正式环境地址：
+http://csp.syncpo.com/app 【登录信息：公司0514，门店编码1000，账号sunny，密码123456】
+http://shop.syncpo.com/app【登录信息：账号sunny@syncpo.com,密码123456】
+http://cpa.syncpo.com/app 【登录信息：账号tutu，密码123456】
+
+
+禅道地址：http://zentao.syncpo.com:91/zentao/user-login-L3plbnRhby9teS5odG1s.html
+
+数据库信息（测试）：
+TEST-IP: testpg.syncrock.com, port:9182
+(1)Database/帳號/密碼:syncrock_be/syncrock_be/syncrockbe2016_$               chp、csp、cpa
+(2)Database/帳號/密碼:syncrock_bf/syncrock_bf/syncrockbf2016!~               数据下派存的库
+(3)Database/帳號/密碼:syncrock_trade/syncrock_trade/syncrocktrade2016!^
+      在线支付服务  
+(4)Datebase/账号/密码:syncrock_stat/syncrock_stat/syncrockstat2016_#
+         统计库
+
+
+
+
+
+
